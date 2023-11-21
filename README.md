@@ -1,5 +1,4 @@
-### Hi there 👋
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lightmean03&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lightmean03&hide=javascript,css,scss,html&theme=tokyonight)
 
 
 <!--
